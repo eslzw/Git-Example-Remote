@@ -2,3 +2,14 @@ body
 {
     background-color: rgb(177, 16, 246);
 }
+h1
+{
+color: violet;
+text-align: center;
+}
+p
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+}
